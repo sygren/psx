@@ -41,4 +41,6 @@ target_sources(${PROJECT_NAME}
     src/cpu/cpu.cpp
 
     src/bios/bios.cpp
+    src/ram/ram.cpp
+    src/map/map.cpp
 )
